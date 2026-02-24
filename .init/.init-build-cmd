@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run lint && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/resident-profile-management-system-228075-228091/resident_directory_frontend"
+}
